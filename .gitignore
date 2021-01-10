@@ -1,0 +1,4 @@
+!simplekeyboard
+simplekeyboard/**
+!simplekeyboard/test.apk
+!simplekeyboard/*.json
